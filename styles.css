@@ -1,6 +1,6 @@
 body {
   min-height: 100vh;
-  background-image: url("/Users/michellemeyer/Soundboard/images/sparklebackground.jpg");
+  background-image: url("images/sparklebackground.jpg");
   background-repeat: repeat;
   font-family: "Roboto", sans-serif;
   text-align: center;
